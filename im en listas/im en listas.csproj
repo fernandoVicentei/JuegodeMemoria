@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD22EB1C-ED2F-4759-AC49-2EEBC58CACE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>im_en_listas</RootNamespace>
+    <AssemblyName>im en listas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos_de_Jugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos_de_Jugadores.Designer.cs">
+      <DependentUpon>Datos_de_Jugadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemoramaNovato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemoramaNovato.Designer.cs">
+      <DependentUpon>MemoramaNovato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemoramaPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemoramaPro.Designer.cs">
+      <DependentUpon>MemoramaPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Portada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Portada.Designer.cs">
+      <DependentUpon>Portada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Datos_de_Jugadores.resx">
+      <DependentUpon>Datos_de_Jugadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemoramaNovato.resx">
+      <DependentUpon>MemoramaNovato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemoramaPro.resx">
+      <DependentUpon>MemoramaPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Portada.resx">
+      <DependentUpon>Portada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gifs-animados-tiburones-745305.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiburonbocariba.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camiangif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FOR2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\futblogif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoim %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoim %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoim.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jugargif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slaltgif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monito_gritando__gif__by_vicockart-d83l8xd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conegif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudiando.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hipogif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kiss.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\legen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIDA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\legen %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GIFENOJO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GIFFELIZ.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GIFLLORO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-clash-of-clans-png-640212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-clash-of-clans-png-640262.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-clash-of-clans-png-640584.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-clash-of-clans-png-640587.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-goblin-png-1287839.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRIMER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puño.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-clash-of-clans-png-4844894.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-clash-royale-png-339621.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bandida.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grito.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BRUJ5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moono.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PELEA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PELEA1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PINGUI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PINGUI2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-angry-emoji-png-172851.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picgana %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picgana %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picper %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picper %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monta.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tributo a Rocky - EL OJO DEL TIGRE %28mp3cut.net%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ohyeah.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRIMER1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PortadaNueva1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\investigador-lupa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hom.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lisa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trba.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visita.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baile.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baille.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comer1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0031.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0027.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0030.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0034.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0032.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20190130-WA0033.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perdiste-el-juego-gif-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sonidos\gwkc0-4v1p8.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sonidos\Robert Parker   %2785 Again %28feat Miss K%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sonidos\wr7q1-hexbk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\co.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flecha_animada.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

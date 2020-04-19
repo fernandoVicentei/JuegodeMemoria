@@ -1,0 +1,160 @@
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\bin\Debug\im en listas.exe.config
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\bin\Debug\im en listas.exe
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\bin\Debug\im en listas.pdb
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im_en_listas.Form1.resources
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im en listas.exe
+C:\Users\PCWIN10\Documents\ttrabajos de windows forms\im en listas\im en listas\obj\Debug\im en listas.pdb
+G:\im en listas\im en listas\bin\Debug\im en listas.exe.config
+G:\im en listas\im en listas\bin\Debug\im en listas.exe
+G:\im en listas\im en listas\bin\Debug\im en listas.pdb
+G:\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+G:\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+G:\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+G:\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+G:\im en listas\im en listas\obj\Debug\im en listas.exe
+G:\im en listas\im en listas\obj\Debug\im en listas.pdb
+G:\im en listas\im en listas\obj\Debug\im_en_listas.Portada.resources
+G:\im en listas\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+C:\Users\PCWIN10\Documents\im en listas\im en listas\bin\Debug\im en listas.exe.config
+C:\Users\PCWIN10\Documents\im en listas\im en listas\bin\Debug\im en listas.exe
+C:\Users\PCWIN10\Documents\im en listas\im en listas\bin\Debug\im en listas.pdb
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im_en_listas.Portada.resources
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im en listas.exe
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im en listas.pdb
+H:\im en listas\im en listas\bin\Debug\im en listas.exe.config
+H:\im en listas\im en listas\bin\Debug\im en listas.exe
+H:\im en listas\im en listas\bin\Debug\im en listas.pdb
+H:\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+H:\im en listas\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+H:\im en listas\im en listas\obj\Debug\im_en_listas.Portada.resources
+H:\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+H:\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+H:\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+H:\im en listas\im en listas\obj\Debug\im en listas.exe
+H:\im en listas\im en listas\obj\Debug\im en listas.pdb
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.Form1.resources
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.Portada.resources
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im en listas.exe
+C:\Users\Roberto\Desktop\im en listas\im en listas\obj\Debug\im en listas.pdb
+C:\Users\Roberto\Desktop\im en listas\im en listas\bin\Debug\im en listas.exe.config
+C:\Users\Roberto\Desktop\im en listas\im en listas\bin\Debug\im en listas.exe
+C:\Users\Roberto\Desktop\im en listas\im en listas\bin\Debug\im en listas.pdb
+G:\im en listas\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+C:\Users\PCWIN10\Documents\im en listas\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+H:\im en listas\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+G:\im en listas\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+C:\Users\NahumMA\Desktop\im en listas\im en listas\bin\Debug\im en listas.exe.config
+C:\Users\NahumMA\Desktop\im en listas\im en listas\bin\Debug\im en listas.exe
+C:\Users\NahumMA\Desktop\im en listas\im en listas\bin\Debug\im en listas.pdb
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.Portada.resources
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im en listas.exe
+C:\Users\NahumMA\Desktop\im en listas\im en listas\obj\Debug\im en listas.pdb
+E:\im en listas\im en listas\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+E:\im en listas\im en listas\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+E:\im en listas\im en listas\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+E:\im en listas\im en listas\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+E:\im en listas\im en listas\im en listas\obj\Debug\im_en_listas.Portada.resources
+E:\im en listas\im en listas\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+E:\im en listas\im en listas\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+E:\im en listas\im en listas\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+E:\im en listas\im en listas\im en listas\obj\Debug\im en listas.exe
+E:\im en listas\im en listas\im en listas\obj\Debug\im en listas.pdb
+E:\im en listas\im en listas\im en listas\bin\Debug\im en listas.exe.config
+E:\im en listas\im en listas\im en listas\bin\Debug\im en listas.exe
+E:\im en listas\im en listas\im en listas\bin\Debug\im en listas.pdb
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\bin\Debug\im en listas.exe.config
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\bin\Debug\im en listas.exe
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\bin\Debug\im en listas.pdb
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im_en_listas.Portada.resources
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im en listas.exe
+H:\TRABAJOS WINDOWSFORMS\MEMORAMA\im en listas\obj\Debug\im en listas.pdb
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\bin\Debug\im en listas.exe.config
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\bin\Debug\im en listas.exe
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\bin\Debug\im en listas.pdb
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im_en_listas.Portada.resources
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im en listas.exe
+C:\Users\NahumMA\Desktop\MEMORAMA\im en listas\obj\Debug\im en listas.pdb
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe.config
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.pdb
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Portada.resources
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csproj.CoreCompileInputs.cache
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.exe
+G:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.pdb
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe.config
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.exe
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.pdb
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.pdb
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csprojResolveAssemblyReference.cache
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Portada.resources
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+E:\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csproj.GenerateResource.Cache
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe.config
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.exe
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.pdb
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.pdb
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csprojResolveAssemblyReference.cache
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Portada.resources
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+E:\nuevo\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csproj.GenerateResource.Cache
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe.config
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.exe
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\bin\Debug\im en listas.pdb
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csprojAssemblyReference.cache
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Datos_de_Jugadores.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.lbllpla1.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.MemoramaPro.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Portada.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im_en_listas.Properties.Resources.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.csproj.GenerateResource.cache
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.exe
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\MEMORAMA PROYECTO FINALJMFMHCMH\im en listas\obj\Debug\im en listas.pdb
